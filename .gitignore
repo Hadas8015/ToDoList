@@ -1,0 +1,17 @@
+# --- Backend (.NET/C#) ---
+bin/
+obj/
+.vs/
+*.user
+appsettings.Development.json
+
+# --- Frontend (Node/JS) ---
+node_modules/
+dist/
+build/
+.env
+.DS_Store
+npm-debug.log*
+
+# --- General ---
+.vscode/
